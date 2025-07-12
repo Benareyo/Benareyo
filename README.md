@@ -17,7 +17,7 @@ I’m part of the [First Contributions](https://github.com/firstcontributions/fi
 - Python 
 - MySQL & SQLite
 - Django, Flask (Backend Web Frameworks)
-- ⚙Git & GitHub (Version Control)
+- Git & GitHub (Version Control)
 - Learning: Async Python, Decorators, Context Managers
 
 ---
