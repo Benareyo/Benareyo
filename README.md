@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Betel Yohannes</h1>
 <p align="center">
-  🌍 From Ethiopia · 💻 Backend Developer in Training ·  🚀 ALX Student
+   From Ethiopia · 💻 Backend Developer in Training ·  🚀 ALX Student
 </p>
 
 ---
@@ -27,15 +27,6 @@ I’m part of the [First Contributions](https://github.com/firstcontributions/fi
 - 🏠 [Airbnb Clone - Backend Blueprint](https://github.com/Benareyo/airbnb-clone-project)
 - 🧮 [ALX Database System](https://github.com/Benareyo/alx-airbnb-database)
 - 📊 Competitive Programming with Python
-
----
-
-### 🛡 Goals for 2025
-
-- [x] ✅ Complete ALX Software Engineering track
-- [x] ✅ Make first open-source PR
-- [ ] 🧠 Build full-stack portfolio project
-
 
 ---
 
