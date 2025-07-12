@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 
-💻 Backend developer in training, focused on Python and cybersecurity awareness.  
+💻 Backend developer in training, focused on Python.  
 📚 Currently learning through ALX.  
 🌍 From Ethiopia.  
 🤝 Always open to collaborating on backend projects.  
