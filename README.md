@@ -1,18 +1,18 @@
-Hi there, I'm Betel 👋
+# Hi there, I'm Betel 👋
 
-✨ About Me:
+## 💫 About Me:
 
-💼 Backend developer in training, focused on Python and cybersecurity awareness.  
+💻 Backend developer in training, focused on Python and cybersecurity awareness.  
 📚 Currently learning through ALX.  
 🌍 From Ethiopia.
 
-🤝 Always open to collaborating on interesting backend projects.  
-📩 Feel free to reach out anytime!
+🤝 I’m always open to collaborating on backend projects.  
+💬 Feel free to reach out if you have any questions or want to connect.
 
-🛠️ Tech Stack:
+## 💻 Tech Stack:
 
-🐍 Python, 🐘 MySQL, 🗃️ SQLite, 🌐 Django, ⚡ Flask, 🔧 Git, 🐙 GitHub
+`Python` `MySQL` `SQLite` `Django` `Flask` `Git` `GitHub`
 
-📊 GitHub Stats:
+## 📊 GitHub Stats:
 
-![Betel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benareyo&show_icons=true&theme=radical)
+![Betel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benareyo&show_icons=true&hide_title=true&hide_rank=true&theme=radical)
