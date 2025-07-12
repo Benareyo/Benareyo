@@ -1,45 +1,18 @@
-<h1 align="center">Hi there 👋, I'm Betel Yohannes</h1>
-<p align="center">
-   From Ethiopia · 💻 Backend Developer in Training ·  🚀 ALX Student
-</p>
+Hi there, I'm Betel 👋
 
----
+✨ About Me:
 
-### ✨ Open Source Journey
+💼 Backend developer in training, focused on Python and cybersecurity awareness.  
+📚 Currently learning through ALX.  
+🌍 From Ethiopia.
 
- I made my [first open-source contribution](https://github.com/firstcontributions/first-contributions/pull/100022)!  
-I’m part of the [First Contributions](https://github.com/firstcontributions/first-contributions) community 💖  
+🤝 Always open to collaborating on interesting backend projects.  
+📩 Feel free to reach out anytime!
 
----
+🛠️ Tech Stack:
 
-### 🔧 Tech Stack
+🐍 Python, 🐘 MySQL, 🗃️ SQLite, 🌐 Django, ⚡ Flask, 🔧 Git, 🐙 GitHub
 
-- Python 
-- MySQL & SQLite
-- Django, Flask (Backend Web Frameworks)
-- Git & GitHub (Version Control)
-- Learning: Async Python, Decorators, Context Managers
+📊 GitHub Stats:
 
----
-
-### 🏗️ ALX Projects I’m Working On
-
-- 🏠 [Airbnb Clone - Backend Blueprint](https://github.com/Benareyo/airbnb-clone-project)
-- 🧮 [ALX Database System](https://github.com/Benareyo/alx-airbnb-database)
-- 📊 Competitive Programming with Python
-
----
-
-### 🧡 Fun Facts
-
--  I believe in learning **with love and resilience**
--  I focus better with calm piano or cozy cafés in the background
--  I bounce back even when it’s hard — coding heals too ✨
-
----
-
-### 📫 Connect with Me
-
-- GitHub: [github.com/Benareyo](https://github.com/Benareyo)
-- LinkedIn: [linkedin.com/in/betel-yohannes-24aa04320](https://www.linkedin.com/in/betel-yohannes-24aa04320)
-
+![Betel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benareyo&show_icons=true&theme=radical)
