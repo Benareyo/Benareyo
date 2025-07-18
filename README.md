@@ -22,13 +22,6 @@
 
 ---
 
-## 🚀 Current Projects
-
-- [Airbnb Clone - Backend Blueprint](https://github.com/Benareyo/airbnb-clone-project)  
-- [ALX Airbnb Database System](https://github.com/Benareyo/alx-airbnb-database)  
-
----
-
 ## 📊 GitHub Stats
 
 ![Betel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Benareyo&show_icons=true&count_private=true&theme=radical&hide_title=false)
