@@ -45,11 +45,6 @@
 
 ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Benareyo&theme=radical)  
 
----
-
-## 🎭 Fun Zone  
-
-![Jokes](https://readme-jokes.vercel.app/api?theme=radical)  
 
 ---
 
