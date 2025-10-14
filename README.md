@@ -1,20 +1,37 @@
-<!-- Header -->
-<h1 align="center">👋 Hi, I'm <span style="color:#58a6ff;">Betel Yohannes</span></h1>
+# Hi, I'm Betel Yohannes 👋  
 
-<h3 align="center">🚀 Backend Developer (Pro in Training) | ⚡ Electrical Engineering Student</h3>
+🚀 **Backend Developer (Pro in Training)** | ⚡ **Electrical Engineering Student**  
+🔒 Passionate about **building secure and scalable backend systems**  
+💡 Exploring **APIs, Databases, and Cloud Technologies**
+
+---
+
+## 📊 GitHub Analytics  
+
 <p align="center">
-  🔒 Passionate about building <strong>secure, scalable applications</strong><br/>
-  💡 Exploring <strong>APIs, Databases, and Cloud Systems</strong><br/>
-  🌱 Constantly learning and contributing to <strong>open-source & backend projects</strong>
+  <img src="https://github-readme-stats.vercel.app/api?username=benareyo&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=benareyo&theme=tokyonight&hide_border=true" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benareyo&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
 </p>
 
 ---
 
-## 🧠 What I Do  
-- 🏗️ Build and scale backend systems with **Python (Django & Flask)**  
-- 🛢️ Design and optimize **databases (MySQL, SQLite)**  
-- 🔐 Focus on **security and performance optimization**  
-- 🧩 Love debugging, automation, and solving real-world problems  
+## 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=benareyo&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" />
+</p>
+
+<!-- Alternate graph with 4-quadrant style visualization -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=benareyo&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=benareyo&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=benareyo&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=benareyo&theme=tokyonight"/>
+</p>
 
 ---
 
@@ -36,31 +53,6 @@
 
 ---
 
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=benareyo&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=benareyo&theme=tokyonight&hide_border=true" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benareyo&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=benareyo&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=benareyo&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
 ## 🌐 Connect with Me  
 
 <p align="center">
@@ -72,5 +64,5 @@
 ---
 
 <p align="center">
-  <i>“Code with clarity. Build with security.”</i> 💫
+  <i>“Code smart. Build secure.”</i> ⚙️
 </p>
