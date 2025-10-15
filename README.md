@@ -27,12 +27,12 @@
 
 ---
 
-## 🐙 GitHub Achievements  
+## 🏅 GitHub Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pull%20Shark-×2-2b8a3e?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark ×2"/>
-  <img src="https://img.shields.io/badge/Quickdraw-Bronze-orange?style=for-the-badge&logo=github&logoColor=white" alt="Quickdraw"/>
-  <img src="https://img.shields.io/badge/Gitty%20Up!-Unlocked-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Gitty Up!"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark 🦈">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw ⚡">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO 🚀">
 </p>
 
 ---
