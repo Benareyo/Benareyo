@@ -27,6 +27,16 @@
 
 ---
 
+## 🐙 GitHub Achievements  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pull%20Shark-×2-2b8a3e?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark ×2"/>
+  <img src="https://img.shields.io/badge/Quickdraw-Bronze-orange?style=for-the-badge&logo=github&logoColor=white" alt="Quickdraw"/>
+  <img src="https://img.shields.io/badge/Gitty%20Up!-Unlocked-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Gitty Up!"/>
+</p>
+
+---
+
 ## 📈 Contribution Summary  
 
 <p align="center">
