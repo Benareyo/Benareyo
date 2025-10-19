@@ -1,6 +1,6 @@
 # Hi, I'm Betel Yohannes 👋  
 
-🚀 **Backend Developer (Pro in Training)** | ⚡ **Electrical Engineering Student**  
+🚀 **ALX ProDev Backend** | ⚡ **Electrical Engineering Student**  
 🔒 Passionate about **building secure and scalable backend systems**  
 💡 Exploring **APIs, Databases, and Cloud Technologies**
 
