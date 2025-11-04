@@ -1,41 +1,8 @@
-# Hi, I'm Betel Yohannes 👋  
+# 👋 Hi, I'm **Betel Yohannes**
 
-🚀 **ALX ProDev Backend** | ⚡ **Electrical Engineering Student**  
-🔒 Passionate about **building secure and scalable backend systems**  
-💡 Exploring **APIs, Databases, and Cloud Technologies**
-
----
-
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=benareyo&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=benareyo&theme=tokyonight&hide_border=true" height="160px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benareyo&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=benareyo&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-
-## 📈 Contribution Summary  
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=benareyo&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=benareyo&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=benareyo&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=benareyo&theme=tokyonight"/>
-</p>
+🚀 **ALX ProDev Backend Developer** | ⚡ **Electrical & Computer Engineering Student**  
+🔒 Passionate about **secure, scalable backend systems**  
+☁️ Exploring **APIs, Databases, and Cloud Technologies**
 
 ---
 
@@ -57,6 +24,27 @@
 
 ---
 
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=benareyo&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=benareyo&theme=tokyonight&hide_border=true" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benareyo&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
+</p>
+
+---
+
+## 🏆 Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=benareyo&theme=tokyonight&no-frame=true&margin-w=5&column=6"/>
+</p>
+
+---
+
 ## 🌐 Connect with Me  
 
 <p align="center">
@@ -74,5 +62,5 @@
 ---
 
 <p align="center">
-  <i>“Code smart. Build secure.”</i> ⚙️
+  <i>“Code smart. Build secure.” ⚙️</i>
 </p>
