@@ -25,19 +25,15 @@ I am passionate about building **secure, scalable backend systems** and explorin
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=benareyo&show_icons=true&theme=tokyonight&hide_border=true" alt="Betel's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benareyo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+![Betel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=benareyo&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benareyo&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🏆 Achievements  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=benareyo&theme=tokyonight&no-frame=true&margin-w=5&column=6" alt="Trophies" />
-</p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=benareyo&theme=tokyonight&no-frame=true&margin-w=5&column=6)
 
 ---
 
