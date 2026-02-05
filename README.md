@@ -2,7 +2,8 @@
 
 ### 🚀 ALX ProDev Backend Developer | ⚡ Electrical & Computer Engineering Student
 
-I am passionate about building **secure, scalable backend systems** and exploring the intersection of hardware and software. Currently diving deep into **APIs, Databases, and Cloud Technologies**.
+I am passionate about building **secure, scalable backend systems** and exploring the intersection of hardware and software.  
+Currently diving deep into **APIs, Databases, and Cloud Technologies**.
 
 ---
 
@@ -14,6 +15,8 @@ I am passionate about building **secure, scalable backend systems** and explorin
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### **Infrastructure & Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -23,26 +26,18 @@ I am passionate about building **secure, scalable backend systems** and explorin
 
 ---
 
-## 📊 GitHub Stats  
-
-<img src="https://github-readme-stats.vercel.app/api?username=benareyo&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benareyo&layout=compact&theme=tokyonight" />
-
----
-
-## 🏆 Achievements  
-
-<img src="https://github-profile-trophy.vercel.app/?username=benareyo&theme=tokyonight&no-frame=true&column=6" />
-
----
-
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="mailto:betelyohannes39@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/betel-yohannes-24aa04320/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/benareyo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:betelyohannes39@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/betel-yohannes-24aa04320/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/benareyo">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
