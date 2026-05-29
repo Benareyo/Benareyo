@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Betel%20Yohannes&fontSize=60&fontAlignY=35&desc=Backend%20Engineer%20%7C%20ML%20Enthusiast&descSize=20" />
-</p>
+# 👋 Hi, I'm Betel Yohannes
 
 <p align="center">
   <a href="https://linkedin.com/in/betel-yohannes-24aa04320/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -10,12 +8,13 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 Backend Engineer | Emerging Machine Learning Enthusiast
+
 > **I am a 4th-year Electrical and Computer Engineering student bridging the gap between stable backend systems and intelligent machine learning models. I am currently deep-diving into MLOps, predictive data analysis, and the lifecycle of intelligent applications.**
 
 ---
 
-### 🛠️ Technical Landscape
+## 🛠️ Technical Landscape
 
 | **Category** | **Technologies** |
 | :--- | :--- |
@@ -26,22 +25,24 @@
 
 ---
 
-### 📊 Performance Insights
+## 📊 Performance Insights
+
+*My GitHub activity and language distribution.*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benareyo&layout=compact&theme=radical&hide_border=true&langs_count=6" />
-  <img src="https://github-readme-stats.vercel.app/api?username=benareyo&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benareyo&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=benareyo&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
 
-### 🤝 Let's Collaborate
+## 🤝 Let's Collaborate
+
 **I am currently seeking opportunities to apply my backend expertise to ML pipelines. Whether it's optimizing a data model or scaling a microservice, I’m always open to discussing new engineering challenges.**
 
 <p align="center">
   <b><i>“Engineering solutions. Learning data. Building the future.” ⚙️</i></b>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
