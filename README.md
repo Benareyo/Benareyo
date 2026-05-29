@@ -27,22 +27,17 @@
 
 ## 📊 Performance Insights
 
-*My GitHub activity and language distribution.*
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benareyo&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=benareyo&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
 
-## 🤝 Let's Collaborate
+## 🤝 Let's Connect
 
-**I am currently seeking opportunities to apply my backend expertise to ML pipelines. Whether it's optimizing a data model or scaling a microservice, I’m always open to discussing new engineering challenges.**
+**I am currently seeking opportunities to apply my backend expertise to ML pipelines. Reach out if you’d like to discuss engineering challenges, backend architecture, or data projects.**
 
 <p align="center">
-  <b><i>“Engineering solutions. Learning data. Building the future.” ⚙️</i></b>
+  <b><i>“Engineering solutions. Learning data. Building the future.”</i></b>
 </p>
