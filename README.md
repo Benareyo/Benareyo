@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Betel Yohannes
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Betel%20Yohannes&fontSize=60&fontAlignY=35&desc=Backend%20Engineer%20%7C%20ML%20Enthusiast&descSize=20" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/betel-yohannes-24aa04320/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -8,52 +10,32 @@
 
 ---
 
-### 🚀 Backend Developer | Emerging Machine Learning Enthusiast
-
+### 🚀 About Me
 > **I am a 4th-year Electrical and Computer Engineering student bridging the gap between stable backend systems and intelligent machine learning models. I am currently deep-diving into MLOps, predictive data analysis, and the lifecycle of intelligent applications.**
 
 ---
 
-## 📊 Technical Proficiency
-*A snapshot of my current skill landscape.*
+### 🛠️ Technical Landscape
+
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Backend & Web** | `Python`, `FastAPI`, `Django`, `Flask`, `Java`, `JavaScript` |
+| **Data & ML** | `Scikit-Learn`, `Pandas`, `NumPy`, `Feature Engineering` |
+| **Infrastructure** | `Docker`, `PostgreSQL`, `MySQL`, `GitHub Actions` |
+| **Engineering** | `STM32`, `MATLAB`, `Linux Bash`, `IAR Workbench` |
+
+---
+
+### 📊 Performance Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benareyo&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benareyo&layout=compact&theme=radical&hide_border=true&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=benareyo&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 🔍 Core Domains
-
-* ⚙️ **Backend Engineering** ➔ Developing `REST APIs`, `microservices`, and database-driven architectures.
-* 🧠 **Machine Learning** ➔ Transitioning from theory to practice: `Scikit-learn`, `clustering`, and `feature engineering`.
-* 📦 **MLOps & DevOps** ➔ Containerizing models with `Docker`, managing deployment pipelines, and `CI/CD` automation.
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 **Backend & Web**
-* **Languages** ➔ `Python` • `Java` • `JavaScript` • `C/C++`
-* **Frameworks** ➔ `FastAPI` • `Django` • `Flask`
-
----
-
-### 🎯 **ML & Data Engineering**
-* **Core Libraries** ➔ `Scikit-Learn` • `Pandas` • `NumPy`
-* **Workflow Focus** ➔ `Data Preprocessing` • `Model Registry (MLflow)` • `Predictive Analytics`
-
----
-
-### ⚙️ **Systems & Infrastructure**
-* **Persistence** ➔ `MySQL` • `PostgreSQL` • `SQLite`
-* **Containers** ➔ `Docker` • `Docker Compose`
-* **Embedded/HW** ➔ `STM32` • `MATLAB` • `Linux Bash`
-
----
-
-## 🤝 Let's Connect!
-
+### 🤝 Let's Collaborate
 **I am currently seeking opportunities to apply my backend expertise to ML pipelines. Whether it's optimizing a data model or scaling a microservice, I’m always open to discussing new engineering challenges.**
 
 <p align="center">
@@ -61,5 +43,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=benareyo&show_icons=true&theme=radical&hide_border=true" alt="Betel's GitHub Stats" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
