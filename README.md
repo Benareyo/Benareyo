@@ -1,8 +1,6 @@
 <div align="center">
 
-```
 # Betel Yohannes
-
 **Backend Engineer · ECE Student · ML Systems Builder**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/betel-yohannes-24aa04320/)
